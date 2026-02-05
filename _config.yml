@@ -2,3 +2,27 @@ title: Dr. Kiran D. Devade
 description: Associate Professor & Researcher in Mechanical Engineering
 theme: jekyll-theme-minimal
 show_downloads: false
+
+nav:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Education
+    url: /education
+  - title: Experience
+    url: /experience
+  - title: Publications
+    url: /publications
+  - title: Research
+    url: /research
+  - title: Projects
+    url: /projects
+  - title: Roles
+    url: /roles
+  - title: Achievements
+    url: /achievements
+  - title: Training
+    url: /training
+  - title: Contact
+    url: /contact
